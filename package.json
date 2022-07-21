@@ -3,7 +3,7 @@
   "author": "ImKIJ",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "GPL",
   "dependencies": {
     "discord.js": "^14.0.2",
     "dotenv": "^16.0.1",
